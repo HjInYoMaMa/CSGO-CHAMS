@@ -2,7 +2,7 @@
 
 
 # 🛰 About
-Chams for game called Counter-Strike: Global Offensive
+External Chams for game called Counter-Strike: Global Offensive
 
 ## ☂️ Features
 - Chams
